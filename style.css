@@ -91,3 +91,16 @@ body {
     bottom: -20px;
 }
 
+/* Cola */
+.cola {
+    width: 100px;
+    height: 50px;
+    background-color: #ff00ff;
+    border-radius: 50% 50% 0 0;
+    box-shadow: 0 0 15px #ff00ff, 0 0 30px #ff00ff;
+    position: absolute;
+    left: 120px;
+    bottom: 30px;
+    transform: rotate(30deg);
+}
+
