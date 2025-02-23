@@ -1,0 +1,17 @@
+body {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.dinosaurio {
+    width: 200px;
+    height: 250px;
+    background-color: #ff00ff;
+    border-radius: 50% 50% 45% 45% / 55% 55% 40% 40%;
+    box-shadow: 0 0 15px #ff00ff, 0 0 30px #ff00ff, 0 0 45px #ff00ff;
+    position: relative;
+}
